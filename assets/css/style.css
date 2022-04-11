@@ -11312,8 +11312,8 @@ li {
 
 .section-bg {
   position: absolute;
-  right: -58%;
-  bottom: -61%;
+  right: -41%;
+  bottom: 30%;
   z-index: -1;
 }
 
@@ -11596,6 +11596,10 @@ li {
   margin-top: 3rem;
 }
 
+.work {
+  overflow-x: hidden;
+}
+
 .slider-tabs .tab-content {
   display: flex;
   justify-content: space-between;
@@ -11692,6 +11696,10 @@ footer {
   display: none;
 }
 
+.pricing {
+  margin-top: 5rem;
+}
+
 @media screen and (max-width:1800px) {
   
   .padding-x {
@@ -11767,10 +11775,9 @@ footer {
 @media screen and (max-width:1890px) {
 
   .section-bg {
-    display: none;
     position: absolute;
     right: -58%;
-    bottom: -61%;
+    bottom: 20%;
     z-index: -1;
 }
 
@@ -11780,7 +11787,7 @@ footer {
   .section-bg {
     position: absolute;
     right: -95%;
-    bottom: -61%;
+    bottom: 20%;
     z-index: -1;
 }
 
@@ -11849,8 +11856,12 @@ footer {
   color: #fff;
   margin-bottom: 27px;
 }
+
 .section-bg {
-display: none;
+  position: absolute;
+  right: -111%;
+  bottom: 20%;
+  z-index: -1;
 }
 
 .banner-img {
@@ -11883,6 +11894,10 @@ display: none;
 }
 
 @media screen and (max-width:1040px) {
+
+  .section-bg {
+   display: none;
+  }
 
   .banner-bg {
     position: absolute;

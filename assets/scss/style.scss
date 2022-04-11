@@ -1,0 +1,17 @@
+@import './variables';
+@import '../bootstrap/scss/bootstrap.scss';
+
+// ============== main files ============
+@import './main';
+
+// =============== header ===========
+@import './header';
+
+// =============== banner ===========
+@import './banner';
+
+// =============== work ===========
+@import './work';
+
+// =============== pricing ===========
+@import './pricing';

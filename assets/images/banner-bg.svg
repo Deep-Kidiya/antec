@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="194.742" height="157.129" viewBox="0 0 194.742 157.129">
   <defs>
     <clipPath id="clip-path">
@@ -14,20 +13,3 @@
     </g>
   </g>
 </svg>
-=======
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="194.742" height="157.129" viewBox="0 0 194.742 157.129">
-  <defs>
-    <clipPath id="clip-path">
-      <path id="Path_3" data-name="Path 3" d="M662.063,242.034c-34.489-20.842-50.768-84.874-104.01-46.61S526.888,312.3,577.909,331.314s116.665,8.272,135.138-27.047C744.612,243.915,685.2,256.015,662.063,242.034Z" fill="none"/>
-    </clipPath>
-  </defs>
-  <g id="Group_3" data-name="Group 3" transform="translate(-527.345 -183.473)">
-    <path id="Path_1" data-name="Path 1" d="M662.063,242.034c-34.489-20.842-50.768-84.874-104.01-46.61S526.888,312.3,577.909,331.314s116.665,8.272,135.138-27.047C744.612,243.915,685.2,256.015,662.063,242.034Z" fill="#e10300"/>
-    <g id="Group_1" data-name="Group 1">
-      <g id="Group_2" data-name="Group 2" clip-path="url(#clip-path)">
-        <path id="Path_2" data-name="Path 2" d="M522.158,316.116s29.412-29.492,78.534-15.5,78.045,2,71.946-72.159c0,0,69.044,9.633,60.192,58.693C722.088,346.69,583.421,369.41,522.158,316.116Z" fill="#bc0000"/>
-      </g>
-    </g>
-  </g>
-</svg>
->>>>>>> 7d2d7559bc23ac0de1c73e02e4db174bbfd47d4e

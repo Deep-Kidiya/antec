@@ -11312,8 +11312,8 @@ li {
 
 .section-bg {
   position: absolute;
-  right: -57%;
-  bottom: 33%;
+  right: -41%;
+  bottom: 30%;
   z-index: -1;
 }
 
@@ -11896,9 +11896,12 @@ footer {
 @media screen and (max-width:1040px) {
 
   .section-bg {
-   display: none;
-  }
-
+    position: absolute;
+    right: -72%;
+    bottom: 20%;
+    width: 90%;
+    z-index: -1;
+}
   .banner-bg {
     position: absolute;
     bottom: -23px;
@@ -11936,10 +11939,7 @@ footer {
     display: none;
   }
 
-  .section-bg {
-    display: none;
 
-}
 
 .navbar {
   background: #FF0000;
